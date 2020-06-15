@@ -1,0 +1,5 @@
+#!/home/dixy/Рабочий стол/final_work/myenv/bin/python3
+from django.core import management
+
+if __name__ == "__main__":
+    management.execute_from_command_line()
